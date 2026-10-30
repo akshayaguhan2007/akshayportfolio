@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "CROP+ Agri-Tech & Carbon-Fintech Platform",
+    "role": "Flutter, Firebase & IoT / <br /> Carbon-Fintech Platform",
+    "description": "A digital platform where farmers access real-time soil analytics, optimize fertilizer use via computer vision, and monetize carbon credits with automated UPI payouts. Administrators monitor carbon registry ledgers, manage satellite data ingestion, and coordinate direct-benefit transfers upon consensus verification.",
+    "link": "https://github.com/akshayaguhan2007",
+    "image": "images/crop_plus.png"
+  },
+  {
+    "id": 2,
+    "title": "Sign Language Translator Wireless Smart Glove",
+    "role": "Arduino, Flutter & C++ / <br /> Assistive Tech Glove",
+    "description": "A wireless smart glove where users translate sign language gestures into real-time text and speech with customizable voice outputs and high-accuracy gesture tracking. Administrators manage the global gesture library, monitor device performance through diagnostic dashboards, and coordinate system updates upon mobile application synchronization.",
+    "link": "https://github.com/akshayaguhan2007",
+    "image": "images/sign_language.png"
+  },
+  {
+    "id": 3,
+    "title": "Zen Wear - E Commerce Platform",
+    "role": "React, Django & MongoDB / <br /> E-Commerce Storefront",
+    "description": "A digital storefront where shoppers discover and purchase premium apparel with customizable size filters, transparent checkout pricing, and specific style preferences. Administrators manage the global product catalog, monitor sales analytics through visual dashboards, and coordinate delivery logistics by assigning local couriers and fulfillment hubs upon order verification.",
+    "link": "https://github.com/akshayaguhan2007",
+    "image": "images/zen_wear.png"
+  }
+]
